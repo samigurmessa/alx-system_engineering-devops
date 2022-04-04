@@ -1,2 +1,2 @@
 #!/bin/bash
-head -n 3 iacat | tail -n l
+head -3 iacat | tail -l
